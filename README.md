@@ -16,12 +16,12 @@ This project focuses on analyzing banking customer data, including:
 - Credit utilization insights
 
 Key files:
-- [`banking_analysis.sql`](./Banking-Data-Analysis/banking_analysis.sql): SQL queries for data extraction and analysis
+- [`comprehensive_banking_analysis.sql`](./Banking-Data-Analysis/banking_analysis.sql): SQL queries for data extraction and analysis
 
 
 ### [AdventureWorks Power BI Project](./AdventureWorks-Analysis)
 
-Located in: [`/AdventureWorks/`](./AdventureWorks)
+Located in: [`/AdventureWorks-analysis/`](./AdventureWorks-analysis)
 
 An analysis of the AdventureWorks dataset, showcasing:
 - Sales performance metrics
