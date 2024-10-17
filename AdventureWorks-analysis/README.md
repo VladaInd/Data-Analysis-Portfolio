@@ -10,7 +10,7 @@ This repository includes:
 
  - [`AdventureWorks.pbix`](./AdventureWorks.pbix): The main Power BI file containing the dashboard and all visualizations
 
- - [`images`](./images): A folder containing screenshots of key visualizations from the dashboard
+ - [`Images`](./Images): A folder containing screenshots of key visualizations from the dashboard
 
 ## Project Details
 

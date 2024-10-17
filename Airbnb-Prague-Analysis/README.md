@@ -12,7 +12,7 @@ This project analyzes the Airbnb market in Prague using SQL for data extraction 
 
   -[`airbnb_analysis.sql`](./airbnb_analysis.sql): SQL file with queries used for data extraction and initial analysis
 
-  -[`images`](./images): Images file includes images of the dashboard and visualization
+  -[`Images`](./Images): Images file includes images of the dashboard and visualization
 
 ## Key Features of the Analysis
 1. Pricing Analysis
