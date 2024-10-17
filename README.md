@@ -6,6 +6,20 @@ Welcome to my Data Analysis Portfolio. This repository showcases a collection of
 
 ## Projects
 
+### [Airbnb](./Airbnb)
+
+Located in: [`/Airbnb/`](./Airbnb)
+
+This project analyzes the Airbnb market in Prague, focusing on:
+- Pricing trends
+- Booking patterns
+- Host performance analysis
+
+Key files:
+- [`airbnb_analysis.sql`](./Airbnb/airbnb_analysis.sql): SQL queries for data preprocessing
+- [`airbnb-analysis-powerbi.pbix`](./Airbnb/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
+- [`images/`](./airbnb/images)
+
 ### [Banking Data Analysis](./Banking-Data-Analysis)
 
 Located in: [`/Banking-Data-Analysis/`](./Banking-Data-Analysis)
@@ -16,7 +30,7 @@ This project focuses on analyzing banking customer data, including:
 - Credit utilization insights
 
 Key files:
-- [`comprehensive_banking_analysis.sql`](./Banking-Data-Analysis/banking_analysis.sql): SQL queries for data extraction and analysis
+- [`comprehensive_banking_analysis.sql`](./Banking-Data-Analysis/comprehensive_banking_analysis.sql): SQL queries for data extraction and analysis
 
 
 ### [AdventureWorks Power BI Project](./AdventureWorks-Analysis)
@@ -32,19 +46,6 @@ Key files:
 - [`AdventureWorks.pbix`](./AdventureWorks-analysis/AdventureWorks.pbix): Power BI file with interactive dashboard
 - [`images/`](./AdventureWorks-analysis/images): Folder containing dashboard screenshots
 
-### [Airbnb Prague Market Analysis](./Airbnb-Prague-Analysis)
-
-Located in: [`/Airbnb-Prague-Analysis/`](./Airbnb-Prague-Analysis)
-
-This project analyzes the Airbnb market in Prague, focusing on:
-- Pricing trends
-- Booking patterns
-- Host performance analysis
-
-Key files:
-- [`airbnb_analysis.sql`](./Airbnb-Prague-Analysis/airbnb_analysis.sql): SQL queries for data preprocessing
-- [`airbnb-analysis-powerbi.pbix`](./Airbnb-Prague-Analysis/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
-- [`images/`](./airbnb-analysis/images)
 ## Skills Demonstrated
 
 - Data cleaning and preprocessing
