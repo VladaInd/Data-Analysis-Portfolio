@@ -32,6 +32,11 @@ This project analyzes the Airbnb market in Prague using SQL for data extraction 
 5. Review Analysis
    - Correlation between number of reviews and other factors
 
+C:\Users\vlada\OneDrive\Pictures\Screenshots\Screenshot 2024-10-17 120826.png
+
+C:\Users\vlada\OneDrive\Pictures\Screenshots\Screenshot 2024-10-17 120911.png
+
+
 ## How to Use
 1. Open `airbnb_analysis.sql` in your preferred SQL client to view the data extraction and preprocessing steps.
 2. Open `airbnb-analysis-powerbi.pbix` in Power BI Desktop to interact with the visualizations and explore the insights.
@@ -54,7 +59,7 @@ This project analyzes the Airbnb market in Prague using SQL for data extraction 
 
 5. Pricing Patterns:
    - Price fluctuations visible throughout the year
-
+  
 ## Future Work
 - Incorporate more recent data to analyze post-pandemic trends
 - Expand analysis to compare Prague with other major European cities
