@@ -18,7 +18,7 @@ This project analyzes the Airbnb market in Prague, focusing on:
 Key files:
 - [`airbnb_analysis.sql`](./Airbnb-Prague-Analysis/airbnb_analysis.sql): SQL queries for data preprocessing
 - [`airbnb-analysis-powerbi.pbix`](./Airbnb-Prague-Analysis/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
-- [`images/`](./Airbnb-Prague-Analysis/images)
+- [`Images/`](./Airbnb-Prague-Analysis/Images)
 
 ### [Banking Data Analysis](./Banking-Data-Analysis)
 
@@ -44,7 +44,7 @@ An analysis of the AdventureWorks dataset, showcasing:
 
 Key files:
 - [`AdventureWorks.pbix`](./AdventureWorks-analysis/AdventureWorks.pbix): Power BI file with interactive dashboard
-- [`images/`](./AdventureWorks-analysis/images): Folder containing dashboard screenshots
+- [`Images/`](./AdventureWorks-analysis/Images): Folder containing dashboard screenshots
 
 ## Skills Demonstrated
 
