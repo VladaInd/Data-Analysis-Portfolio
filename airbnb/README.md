@@ -8,7 +8,8 @@ This project analyzes the Airbnb market in Prague using SQL for data extraction 
 - Power BI
 
 ## Files in this Directory
-  -[`airbnb-analysis-powerbi.pbix`](./airbnb-analysis-powerbi.pbix): Power BI file containing the dashboard and visualizations
+  -[`airbnb-analysis-powerbi.pbix`](./airbnb-analysis-powerbi.pbix): Power BI file containing the dashboard and visualization
+
   -[`airbnb_analysis.sql`](./airbnb_analysis.sql): SQL file with queries used for data extraction and initial analysis
 ## Key Features of the Analysis
 
