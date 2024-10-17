@@ -6,9 +6,9 @@ Welcome to my Data Analysis Portfolio. This repository showcases a collection of
 
 ## Projects
 
-### [Airbnb](./Airbnb)
+### [Airbnb-Prague-Analysis](./Airbnb-Prague-Analysis)
 
-Located in: [`/airbnb/`](./airbnb)
+Located in: [`/Airbnb-Prague-Analysis/`](./Airbnb-Prague-Analysis)
 
 This project analyzes the Airbnb market in Prague, focusing on:
 - Pricing trends
@@ -16,9 +16,9 @@ This project analyzes the Airbnb market in Prague, focusing on:
 - Host performance analysis
 
 Key files:
-- [`airbnb_analysis.sql`](./airbnb/airbnb_analysis.sql): SQL queries for data preprocessing
-- [`airbnb-analysis-powerbi.pbix`](./airbnb/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
-- [`images/`](./airbnb/images)
+- [`airbnb_analysis.sql`](./Airbnb-Prague-Analysis/airbnb_analysis.sql): SQL queries for data preprocessing
+- [`airbnb-analysis-powerbi.pbix`](./Airbnb-Prague-Analysis/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
+- [`images/`](./Airbnb-Prague-Analysis/images)
 
 ### [Banking Data Analysis](./Banking-Data-Analysis)
 
