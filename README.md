@@ -1,75 +1,57 @@
 # Data Analysis Portfolio
 
 ## Overview
-
-Welcome to my Data Analysis Portfolio. This repository showcases a collection of projects demonstrating my skills in data analysis, visualization, and insights generation using various tools and datasets.
+Portfolio showcasing data analysis projects using SQL, Python, and Power BI for business insights generation.
 
 ## Projects
 
-### [Airbnb-Prague-Analysis](./Airbnb-Prague-Analysis)
+### [Marketing Campaign Analysis](./Marketing-Campaign-Analysis/)
+Analysis of marketing campaign effectiveness using Python and machine learning.
+- Customer behavior analysis and segmentation
+- Campaign ROI assessment
+- Predictive modeling for customer response
 
-Located in: [`/Airbnb-Prague-Analysis/`](./Airbnb-Prague-Analysis)
+**Key files:**
+- `Marketing-Campaign-Analysis.ipynb`: Python analysis with pandas/scikit-learn
+- `marketing_campaign.csv`: Campaign dataset
+- `requirements.txt`: Dependencies
 
-This project analyzes the Airbnb market in Prague, focusing on:
-- Pricing trends
-- Booking patterns
-- Host performance analysis
+### [Airbnb Prague Analysis](./Airbnb-Prague-Analysis)
+Market analysis of Airbnb properties in Prague.
+- Pricing trends and booking patterns
+- Host performance metrics
 
-Key files:
-- [`airbnb_analysis.sql`](./Airbnb-Prague-Analysis/airbnb_analysis.sql): SQL queries for data preprocessing
-- [`airbnb-analysis-powerbi.pbix`](./Airbnb-Prague-Analysis/airbnb-analysis-powerbi.pbix): Power BI dashboard for Airbnb data
-- [`Images/`](./Airbnb-Prague-Analysis/Images)
+**Key files:**
+- `airbnb_analysis.sql`: Data preprocessing
+- `airbnb-analysis-powerbi.pbix`: Interactive dashboard
+- `Images/`: Visualization screenshots
 
 ### [Banking Data Analysis](./Banking-Data-Analysis)
-
-Located in: [`/Banking-Data-Analysis/`](./Banking-Data-Analysis)
-
-This project focuses on analyzing banking customer data, including:
+Customer analysis focusing on loans and credit behavior.
 - Customer segmentation
-- Loan analysis
-- Credit utilization insights
+- Credit utilization patterns
 
-Key files:
-- [`comprehensive_banking_analysis.sql`](./Banking-Data-Analysis/comprehensive_banking_analysis.sql): SQL queries for data extraction and analysis
+**Key files:**
+- `comprehensive_banking_analysis.sql`: Analysis queries
 
-
-### [AdventureWorks Power BI Project](./AdventureWorks-Analysis)
-
-Located in: [`/AdventureWorks-analysis/`](./AdventureWorks-analysis)
-
-An analysis of the AdventureWorks dataset, showcasing:
-- Sales performance metrics
-- Product category analysis
+### [AdventureWorks Analysis](./AdventureWorks-Analysis)
+Sales and product performance analysis.
+- Product category trends
 - Customer segmentation
 
-Key files:
-- [`AdventureWorks.pbix`](./AdventureWorks-analysis/AdventureWorks.pbix): Power BI file with interactive dashboard
-- [`Images/`](./AdventureWorks-analysis/Images): Folder containing dashboard screenshots
+**Key files:**
+- `AdventureWorks.pbix`: Interactive dashboard
+- `Images/`: Dashboard screenshots
 
-## Skills Demonstrated
-
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- SQL querying (joins, subqueries, window functions)
-- Data visualization with Power BI
-- Statistical analysis
-- Insight generation and business recommendations
-
-## Tools Used
-
+## Skills
 - SQL (PostgreSQL)
+- Python (pandas, scikit-learn)
 - Power BI
-- Git for version control
+- Data preprocessing
+- Statistical analysis
+- Machine learning
+- Git
 
-## How to Navigate This Repository
-
-Each project is contained in its own directory. Within each project directory, you'll find:
-- Source code (SQL files)
-- Power BI files (.pbix)
-- README files with project-specific details
-- Image folders with visualization screenshots (where applicable)
-
-To view the Power BI dashboards, you'll need to have Power BI Desktop installed on your computer.
-
-
-
+## Navigation
+- Each project has its own directory with source code and documentation
+- Power BI files require Power BI Desktop to view
